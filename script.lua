@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gagscript-hub/GrowAGarden-HUB/refs/heads/main/refs-Hub"))()
